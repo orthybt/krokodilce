@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aac5e6d-2764-4191-964b-cd1f8fa0c1a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/XML_Wrappers/OrthyPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/XML_Wrappers/OrthyPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/XML_Wrappers/Patients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/cloud/Cloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/dataObjects/OrthyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/dataObjects/OrthyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/dataObjects/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/gui/gui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/gui/gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/GuiHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/ImageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/LineHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/PathHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/PointHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/handlers/ResultHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/imports/Scalr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/imports/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/imports/VectorMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/managers/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/memory/GuiComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/memory/Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/memory/Points.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/templates/TemplateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/templates/TemplateStaticClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/templates/templateDataObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/Drawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/LineFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/OrthyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/OrthyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/krokodilce/src/util/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/krokodilce/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q23nEWk31JrbDMVwbajGky7ba0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Orthy/Krokodilce/src/main/java/com/example/krokodilce"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Orthy\Krokodilce\src\main\java\com\example\krokodilce" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aac5e6d-2764-4191-964b-cd1f8fa0c1a6" name="Changes" comment="" />
+      <created>1684538015664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684538015664</updated>
+    </task>
+    <servers />
+  </component>
+</project>
