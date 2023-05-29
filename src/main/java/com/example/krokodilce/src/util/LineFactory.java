@@ -11,7 +11,6 @@ import java.awt.geom.Point2D;
 
 import static com.example.krokodilce.src.util.OrthyMath.convertPoint2D;
 import static com.example.krokodilce.src.util.OrthyMath.findIntersection;
-import com.example.krokodilce.src.objects.Orthy_Line;
 
 /**
  *
@@ -46,6 +45,7 @@ public final class LineFactory {
     //                     __________________                                 \\
     //************************************************************************\\
     public static OrthyLine horizontalLine(Point p){
+
         int x = p.x;
         int y = p.y;
         Point start = new Point(x - 5000, y);

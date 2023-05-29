@@ -7,7 +7,8 @@ package com.example.krokodilce.src.util;
 
 import com.example.krokodilce.src.XML_Wrappers.Patients;
 import com.example.krokodilce.src.dataObjects.Patient;
-
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;

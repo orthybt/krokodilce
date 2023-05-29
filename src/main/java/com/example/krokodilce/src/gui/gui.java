@@ -1433,8 +1433,8 @@ public class gui extends JFrame {
                                         txId_lateral.getText(), 
                                         txfirstName_lateral.getText(), 
                                         txLastName_lateral.getText(),
-                                        OrthyPoints(),
-                                        new OrthyPaths()hyPaths());
+                                        new OrthyPoints(),
+                                        new OrthyPaths());
     }
     private void createTestPatient(){
         getC().dataManager().createPatient("1", "DEMO", "DEMO");

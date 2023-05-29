@@ -17,7 +17,7 @@
  */
 package com.example.krokodilce.src.main;
 
-import gui.gui;
+import com.example.krokodilce.src.gui.gui;
 
 /**
  * @author Stefan Todorovic <orthybt@gmail.com>

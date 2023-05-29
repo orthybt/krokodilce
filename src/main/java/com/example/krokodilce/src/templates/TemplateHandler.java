@@ -17,7 +17,7 @@
  */
 package com.example.krokodilce.src.templates;
 
-import cloud.Cloud;
+import com.example.krokodilce.src.cloud.Cloud;
 
 /**
  * A Template class for functional objects, AKA handlers :)

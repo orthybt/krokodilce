@@ -18,7 +18,7 @@
 
 package com.example.krokodilce.src.templates;
 
-import cloud.Cloud;
+import com.example.krokodilce.src.cloud.Cloud;
 
 /**
  * @author Stefan Todorovic <orthybt@gmail.com>

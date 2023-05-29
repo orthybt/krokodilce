@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
 
-import static imports.VectorMath.dotProduct;
+import static com.example.krokodilce.src.imports.VectorMath.dotProduct;
 
 /**
  *      
